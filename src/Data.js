@@ -1,0 +1,65 @@
+export const films =[
+    {
+        id:1,
+        title: 'Un Homme en Colere',
+        description: 'Alex un Americain qui travaille pour une boite londonienne  de transport de fonds avec des camions blinde, gagne la confience d un groupe de braqueur responsable de la mort de son fils.',
+        posterURL: 'https://lesaliens.com/aliens/wp-content/uploads/2022/02/un-homme-en-colere_affiche_cinema_metropolitan-filmexport_creation-agence-digitale-les-aliens-studio-print_affiche-finale-120x160-1.jpg',
+        rating: 9,
+    },
+    {
+        id:2,
+        title: 'NINJA ASSASSIN',
+        description: 'Orphelin, Raizo a ete recueilli par le clan OZUNU, qui la forme a devenir un tueur impitoyable. Mais lorsque le clan a executer  son amie, il decide de couper tout lien avec cet organisation .',
+        posterURL: 'https://m.media-amazon.com/images/S/pv-target-images/d552e047f1619464f4870adbd7fdd2ba04091065466adff4c571ea3cef4ad6b8.jpg',
+        rating: 8,
+    },
+    {
+        id:3,
+        title: 'Agent Stone',
+        description: 'Agent de renseignement, Rachel est la seule femme qui s interpose entre sa puissante organisation mondiale de maintien de la paix.',
+        posterURL: 'https://fr.web.img2.acsta.net/pictures/23/06/19/08/51/2234930.jpg',
+        rating: 10,
+    },
+    {
+        id:4,
+        title: 'TYLER RAKE 2 ',
+        description: 'Apres avoir ete presume mort, le mercenaire Tyler Rake revient pour une nouvelle mission dangereuse.',
+        posterURL: 'https://fr.web.img3.acsta.net/pictures/23/06/01/14/15/4411275.jpg',
+        rating: 5,
+    },
+    {
+        id:5,
+        title: 'EN EAUX TROUBLES',
+        description: 'Une equipe de chercheurs en pleine operation d extraction miniere illegale dans l ocean se retrouvent en peril confrontes a des bandits sans pitie et au Megalodon.',
+        posterURL: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT5za-C3Sy4Dz05rX7Bkf4xx1Yo4Uy4GeFqpYxnmd-DgswEGwu',
+        rating: 10,
+    },
+    {
+        id:6,
+        title: 'UNCHARTED',
+        description: 'Le chasseur de tresor Victor sully recrute Nathan Drake pour l aider a recuperer une fortune vieille de plus de 500 ans amasser par l explorateur Ferdinand Magellan.',
+        posterURL: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6fW_x4LeqJOIA0mkWGpyskqq2c1kPcGGnNFdNP3dlJyLlNrFq',
+        rating: 7,
+    },
+    {
+        id:7,
+        title: 'JOHN WICK',
+        description: 'Ce qui aurait pu etre un banal vol d une voiture de collection se transforme en une chasse a l homme sans merci entre un legendaire ex-tueur a gages et le fils d un ponte de la mafia.',
+        posterURL: 'https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6c2c7ace999b2efa7d6d113f7f3ec49f83722dbd2a22b202ef8028f26a1d0b69._RI_TTW_.jpg',
+        rating: 10,
+    },
+    {
+        id:8,
+        title: 'COURSE A LA MORT',
+        description: 'Afin de reduire le nombre de criminels dans les prisons Americaine, des courses d un genre tres particulier ont ete autorise et diffuser en direct.',
+        posterURL: 'https://fr.web.img4.acsta.net/medias/nmedia/18/65/69/22/18994820.jpg',
+        rating: 9,
+    },
+    {
+        id:9,
+        title: 'MOURIR PEUT ATTENDRE',
+        description: 'James Bond a quitte les services secrets et coule des jours heureux en Jamaiques, mais sa tranquilite est de courte duree.',
+        posterURL: 'https://fr.web.img4.acsta.net/pictures/21/09/09/11/06/5284084.jpg', 
+        rating: 10,
+    }
+]
